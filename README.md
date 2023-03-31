@@ -1,4 +1,4 @@
-# Docsy Example for team testing
+# Docsy Example for learning template
 
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
 site navigation, structure, and more. This **Docsy Example Project** uses the Docsy

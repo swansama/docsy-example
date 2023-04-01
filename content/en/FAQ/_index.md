@@ -1,6 +1,6 @@
 ---
-title: About Goldydocs
-linkTitle: About
+title: FAQ
+linkTitle: FAQ
 menu:
   main:
     weight: 10
@@ -8,9 +8,9 @@ menu:
 ---
 
 
-{{< blocks/cover title="FAQ" image_anchor="bottom" height="min" >}}
+{{< blocks/cover  image_anchor="bottom" height="min" >}}
 
-<p class="lead mt-5">A sample site using the Docsy Hugo theme.
+<p class="lead mt-5">
 </p>
 
 {{< /blocks/cover >}}

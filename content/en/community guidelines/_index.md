@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Community Guidelines
 menu:
   main:
     weight: 40

@@ -11,7 +11,7 @@ menu:
 
 
 
-{{< blocks/section >}}
+{{% blocks/lead color="primary" %}}
 
 Overview:
 This DORA Community creates opportunities for members to connect, listen, share, learn, and support each other on the journey of improving our software delivery and operations.
@@ -21,8 +21,13 @@ Fostering psychological safety is important for members to feel they are in a sa
 We as a community, pledge to make participation in our community, harassment free experience for everyone, regardless of age, body, size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. 
 
 Please read and adhere to the following guidelines:
+{{% /blocks/lead %}}
 
-Guidelines:
+{{% blocks/lead color="secondary" %}}
+
+
+<H1>Guidelines:</H1>
+
 
 Using welcoming and inclusive language
 
@@ -35,8 +40,10 @@ Focusing on what is best for the community
 Showing empathy towards other community members
 
 
+{{% /blocks/lead %}}
+{{< blocks/section >}}
 
-Examples of unacceptable behavior by participants include:
+<H1>Examples of unacceptable behavior by participants include:</H1>
 
 The use of sexualized language or imagery and unwelcome sexual attention or advances
 

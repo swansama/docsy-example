@@ -13,7 +13,9 @@ menu:
 
 {{% blocks/lead color="primary" %}}
 
-Overview:
+
+
+# Overview:
 This DORA Community creates opportunities for members to connect, listen, share, learn, and support each other on the journey of improving our software delivery and operations.
 
 Fostering psychological safety is important for members to feel they are in a safe space where they can participate with people who share similar interests.  
@@ -26,34 +28,34 @@ Please read and adhere to the following guidelines:
 {{% blocks/lead color="secondary" %}}
 
 
-<H1>Guidelines:</H1>
+## Guidelines:
 
 
-Using welcoming and inclusive language
+* Using welcoming and inclusive language
 
-Being respectful of differing viewpoints and experiences
+* Being respectful of differing viewpoints and experiences
 
-Gracefully accepting constructive criticism
+* Gracefully accepting constructive criticism
 
-Focusing on what is best for the community
+* Focusing on what is best for the community
 
-Showing empathy towards other community members
+* Showing empathy towards other community members
 
 
 {{% /blocks/lead %}}
 {{< blocks/section >}}
 
-<H1>Examples of unacceptable behavior by participants include:</H1>
+## Examples of unacceptable behavior by participants include:
 
-The use of sexualized language or imagery and unwelcome sexual attention or advances
+* The use of sexualized language or imagery and unwelcome sexual attention or advances
 
-Trolling, insulting/derogatory comments, and personal or political attacks
+* Trolling, insulting/derogatory comments, and personal or political attacks
 
-Public or private harassment
+* Public or private harassment
 
-Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
 
-Other conduct which could reasonably be considered inappropriate in a professional setting
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 
 

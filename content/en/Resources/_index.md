@@ -1,7 +1,7 @@
 
 ---
 title: "Resources"
-linkTitle: "DORA Resources"
+linkTitle: "Resources"
 weight: 20
 menu:
   main:

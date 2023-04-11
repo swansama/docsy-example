@@ -7,7 +7,10 @@ menu:
 
 ---
 
-{{< blocks/cover title="Community Events" image_anchor="top" height="min" color="white" >}}
+{{< blocks/cover title="Community Events" image_anchor="top" height="min" >}}
+
+<p class="lead mt-5">DORA.community events, and events shared by the community.
+</p>
 
 {{< /blocks/cover >}}
 

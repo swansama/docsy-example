@@ -5,13 +5,10 @@ menu:
     weight: 40
 ---
 
-{{< blocks/cover image_anchor="top" height="min" color="white" >}}
+{{< blocks/cover title="Community Guidelines" image_anchor="bottom" height="min" >}}
 
 {{< /blocks/cover >}}
 {{% blocks/lead color="primary" %}}
-
-
-
 # Overview:
 This DORA Community creates opportunities for members to connect, listen, share, learn, and support each other on the journey of improving our software delivery and operations.
 
@@ -28,15 +25,15 @@ Please read and adhere to the following guidelines:
 ## Guidelines:
 
 
-* Using welcoming and inclusive language
+Using welcoming and inclusive language
 
-* Being respectful of differing viewpoints and experiences
+Being respectful of differing viewpoints and experiences
 
-* Gracefully accepting constructive criticism
+Gracefully accepting constructive criticism
 
-* Focusing on what is best for the community
+Focusing on what is best for the community
 
-* Showing empathy towards other community members
+Showing empathy towards other community members
 
 
 {{% /blocks/lead %}}

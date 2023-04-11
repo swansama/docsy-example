@@ -7,7 +7,7 @@ menu:
 
 ---
 
-{{< blocks/cover image_anchor="top" height="min" color="white" >}}
+{{< blocks/cover image_anchor="top" height="max" color="white" >}}
 
 {{< /blocks/cover >}}
 

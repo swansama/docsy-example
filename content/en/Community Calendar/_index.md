@@ -7,7 +7,7 @@ menu:
 
 ---
 
-{{< blocks/cover image_anchor="top" height="max" color="white" >}}
+{{< blocks/cover title="Community Events" image_anchor="top" height="max" color="white" >}}
 
 {{< /blocks/cover >}}
 

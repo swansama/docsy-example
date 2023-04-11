@@ -5,12 +5,9 @@ menu:
     weight: 40
 ---
 
-{{< blocks/cover image_anchor="top" height="max" color="white" >}}
+{{< blocks/cover image_anchor="top" height="min" color="white" >}}
 
 {{< /blocks/cover >}}
-
-
-
 {{% blocks/lead color="primary" %}}
 
 
@@ -25,7 +22,6 @@ We as a community, pledge to make participation in our community, harassment fre
 Please read and adhere to the following guidelines:
 
 {{% /blocks/lead %}}
-
 {{% blocks/lead color="secondary" %}}
 
 
@@ -57,9 +53,4 @@ Please read and adhere to the following guidelines:
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 
 * Other conduct which could reasonably be considered inappropriate in a professional setting
-
-
-
-
-
 {{< /blocks/section >}}

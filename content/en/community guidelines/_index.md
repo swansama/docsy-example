@@ -8,6 +8,7 @@ menu:
 {{< blocks/cover title="Community Guidelines" image_anchor="bottom" height="min" >}}
 
 {{< /blocks/cover >}}
+
 {{% blocks/lead color="primary" %}}
 # Overview:
 This DORA Community creates opportunities for members to connect, listen, share, learn, and support each other on the journey of improving our software delivery and operations.
@@ -19,8 +20,8 @@ We as a community, pledge to make participation in our community, harassment fre
 Please read and adhere to the following guidelines:
 
 {{% /blocks/lead %}}
-{{% blocks/lead color="secondary" %}}
 
+{{% blocks/lead %}}
 
 ## Guidelines:
 
@@ -37,17 +38,19 @@ Showing empathy towards other community members
 
 
 {{% /blocks/lead %}}
-{{< blocks/section >}}
 
-## Examples of unacceptable behavior by participants include:
+{{% blocks/section %}}
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
+<h1 class="text-right">Examples of unacceptable behavior by participants include:</h1>
 
-* Trolling, insulting/derogatory comments, and personal or political attacks
+<p style="text-align: center">The use of sexualized language or imagery and unwelcome sexual attention or advances
 
-* Public or private harassment
+Trolling, insulting/derogatory comments, and personal or political attacks
 
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
+Public or private harassment
 
-* Other conduct which could reasonably be considered inappropriate in a professional setting
-{{< /blocks/section >}}
+Publishing others' private information, such as a physical or electronic address, without explicit permission
+
+Other conduct which could reasonably be considered inappropriate in a professional setting</p>
+{{% /blocks/section %}}
+

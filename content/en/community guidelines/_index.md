@@ -41,16 +41,18 @@ Showing empathy towards other community members
 
 {{% blocks/section %}}
 
-<h1 class="text-right">Examples of unacceptable behavior by participants include:</h1>
 
-<p style="text-align: center">The use of sexualized language or imagery and unwelcome sexual attention or advances
+  <h1 class="text-center" >Examples of unacceptable behavior by participants include:</h1>
+    <div class="align-center">
+    <P>The use of sexualized language or imagery and unwelcome sexual attention or advances
 
-Trolling, insulting/derogatory comments, and personal or political attacks
+      Trolling, insulting/derogatory comments, and personal or political attacks
 
-Public or private harassment
+      Public or private harassment
 
-Publishing others' private information, such as a physical or electronic address, without explicit permission
+      Publishing others' private information, such as a physical or electronic address, without explicit permission
 
-Other conduct which could reasonably be considered inappropriate in a professional setting</p>
+      Other conduct which could reasonably be considered inappropriate in a professional setting</p>
+    </div>
 {{% /blocks/section %}}
 

@@ -2,6 +2,7 @@
 ---
 title: "Resources"
 linkTitle: "Resources"
+type: "docs"
 weight: 20
 menu:
   main:

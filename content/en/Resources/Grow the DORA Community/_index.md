@@ -1,9 +1,9 @@
 ---
-title: "Contribution Guidelines"
-linkTitle: "Contribution Guidelines"
+title: "Grow the Community"
+linkTitle: "Grow the Community"
 weight: 10
 description: >
-  How to contribute to the docs
+  How to help spread the word about the DORA Community of Practice
 ---
 
 {{% pageinfo %}}

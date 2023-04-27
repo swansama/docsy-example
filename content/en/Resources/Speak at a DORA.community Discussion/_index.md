@@ -1,9 +1,9 @@
 ---
-title: "Reference"
-linkTitle: "Reference"
+title: "Speak at a DORA.community Discussion"
+linkTitle: "Speak at a DORA.community Discussion"
 weight: 9
 description: >
-  Low level reference docs for your project.
+  Volunteer to kick off a DORA.community Lean Coffee Discussion
 ---
 
 {{% pageinfo %}}
